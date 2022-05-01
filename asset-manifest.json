@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/treevisualizer/static/css/main.349d84fe.css",
+    "main.js": "/treevisualizer/static/js/main.e9fa26a2.js",
+    "index.html": "/treevisualizer/index.html",
+    "main.349d84fe.css.map": "/treevisualizer/static/css/main.349d84fe.css.map",
+    "main.e9fa26a2.js.map": "/treevisualizer/static/js/main.e9fa26a2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.349d84fe.css",
+    "static/js/main.e9fa26a2.js"
+  ]
+}
